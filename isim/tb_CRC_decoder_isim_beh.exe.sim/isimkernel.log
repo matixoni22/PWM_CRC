@@ -1,0 +1,35 @@
+Command line:
+   tb_CRC_decoder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61066
+
+Wed Dec 21 16:31:24 2016
+
+
+ Elaboration Time: 0.358802 sec
+
+ Current Memory Usage: 1314.06 Meg
+
+ Total Signals          : 10
+ Total Nets             : 50
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 411
+Total Line Count : 13
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process tb_CRC_decoder.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.390002 sec
+
+ Current Memory Usage: 684.884 Meg
+
+Wed Dec 21 16:46:53 2016
+

@@ -1,0 +1,35 @@
+Command line:
+   tb_CRC_PWM_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57851
+
+Sat Jan 14 19:08:12 2017
+
+
+ Elaboration Time: 0.296402 sec
+
+ Current Memory Usage: 1156.88 Meg
+
+ Total Signals          : 43
+ Total Nets             : 114
+ Total Signal Drivers   : 17
+ Total Blocks           : 8
+ Total Primitive Blocks : 6
+ Total Processes        : 11
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 493
+Total Line Count : 67
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process tb_CRC_PWM.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.296402 sec
+
+ Current Memory Usage: 684.99 Meg
+
+Sat Jan 14 19:43:28 2017
+

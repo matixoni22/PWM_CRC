@@ -1,0 +1,2 @@
+vhdl isim_temp "CRC_coder.vhd"
+vhdl isim_temp "tb_CRC_coder.vhd"

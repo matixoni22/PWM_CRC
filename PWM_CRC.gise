@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="PWM_CRC.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="CRC_PWM.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="CRC_PWM.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="CRC_PWM.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="CRC_PWM.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="CRC_PWM.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="CRC_PWM.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CRC_PWM.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="CRC_PWM.spl"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="CRC_PWM.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CRC_PWM.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="CRC_PWM.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="CRC_PWM.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="CRC_PWM_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="CRC_PWM_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="CRC_PWM_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CRC_PWM_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="CRC_PWM_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="CRC_PWM_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CRC_coder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CRC_coder_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CRC_decoder_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="PWM.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="PWM.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="PWM.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="PWM.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="PWM.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="PWM.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PWM.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="PWM.spl"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="PWM.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="PWM.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="PWM.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="PWM.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PWM_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="PWM_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="PWM_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="PWM_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PWM_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="PWM_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="PWM_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_CRC_PWM_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_CRC_PWM_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_CRC_PWM_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_CRC_PWM_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_CRC_coder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_CRC_coder_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_CRC_decoder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_CRC_decoder_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_PWM_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_PWM_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1481122888" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1481122887">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484417281" xil_pn:in_ck="3393967538325810804" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1484417281">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CRC_PWM.vhd"/>
+      <outfile xil_pn:name="CRC_coder.vhd"/>
+      <outfile xil_pn:name="CRC_decoder.vhd"/>
+      <outfile xil_pn:name="PWM.vhd"/>
+      <outfile xil_pn:name="tb_CRC_PWM.vhd"/>
+      <outfile xil_pn:name="tb_CRC_coder.vhd"/>
+      <outfile xil_pn:name="tb_CRC_decoder.vhd"/>
+      <outfile xil_pn:name="tb_PWM.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1483036183" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-5256634797494827690" xil_pn:start_ts="1483036183">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1483036183" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4598091902488260234" xil_pn:start_ts="1483036183">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1483035695" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-2491478360002144427" xil_pn:start_ts="1483035695">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484417192" xil_pn:in_ck="3393967538325810804" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1484417192">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CRC_PWM.vhd"/>
+      <outfile xil_pn:name="CRC_coder.vhd"/>
+      <outfile xil_pn:name="CRC_decoder.vhd"/>
+      <outfile xil_pn:name="PWM.vhd"/>
+      <outfile xil_pn:name="tb_CRC_PWM.vhd"/>
+      <outfile xil_pn:name="tb_CRC_coder.vhd"/>
+      <outfile xil_pn:name="tb_CRC_decoder.vhd"/>
+      <outfile xil_pn:name="tb_PWM.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1484417195" xil_pn:in_ck="3393967538325810804" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="4678581985275094887" xil_pn:start_ts="1484417192">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="tb_CRC_PWM_beh.prj"/>
+      <outfile xil_pn:name="tb_CRC_PWM_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1484417196" xil_pn:in_ck="5763436521545870230" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-741867298759313708" xil_pn:start_ts="1484417195">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="tb_CRC_PWM_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1482260186" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1482260186">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405603" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-5542637198227761264" xil_pn:start_ts="1484405603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405603" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-2491478360002144427" xil_pn:start_ts="1484405603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1482260186" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1482260186">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405603" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3174306829899998564" xil_pn:start_ts="1484405603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1482260186" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-5918749233538361311" xil_pn:start_ts="1482260186">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405603" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-3647211198600480225" xil_pn:start_ts="1484405603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405622" xil_pn:in_ck="-3413042681248466896" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="6173284153650526503" xil_pn:start_ts="1484405603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CRC_PWM.lso"/>
+      <outfile xil_pn:name="CRC_PWM.ngc"/>
+      <outfile xil_pn:name="CRC_PWM.ngr"/>
+      <outfile xil_pn:name="CRC_PWM.prj"/>
+      <outfile xil_pn:name="CRC_PWM.stx"/>
+      <outfile xil_pn:name="CRC_PWM.syr"/>
+      <outfile xil_pn:name="CRC_PWM.xst"/>
+      <outfile xil_pn:name="CRC_PWM_stx_beh.prj"/>
+      <outfile xil_pn:name="CRC_PWM_xst.xrpt"/>
+      <outfile xil_pn:name="PWM.ngr"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405622" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-358311312648105135" xil_pn:start_ts="1484405622">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405634" xil_pn:in_ck="3615983291288209387" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1624395844182004677" xil_pn:start_ts="1484405622">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CRC_PWM.bld"/>
+      <outfile xil_pn:name="CRC_PWM.ngd"/>
+      <outfile xil_pn:name="CRC_PWM_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1484405652" xil_pn:in_ck="3615983333906652365" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="1066978947743128725" xil_pn:start_ts="1484405634">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CRC_PWM_map.map"/>
+      <outfile xil_pn:name="CRC_PWM_map.mrp"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

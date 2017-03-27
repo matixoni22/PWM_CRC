@@ -1,0 +1,11 @@
+[Inputs]
+deformation_global
+clk_global
+reset_global
+nr_w_global
+=data_in_global[7:0]=
+=address_global[1:0]=
+[Outputs]
+PWM_out_global
+=data_out_global[7:0]=
+[BiDir]

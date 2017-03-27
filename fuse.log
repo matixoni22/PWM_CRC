@@ -1,0 +1,27 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM_isim_beh.exe" -prj "G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM_beh.prj" "work.tb_CRC_PWM" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "G:/Projekty/VSLI/lab2/PWM_CRC/PWM.vhd" into library work
+Parsing VHDL file "G:/Projekty/VSLI/lab2/PWM_CRC/CRC_decoder.vhd" into library work
+Parsing VHDL file "G:/Projekty/VSLI/lab2/PWM_CRC/CRC_coder.vhd" into library work
+Parsing VHDL file "G:/Projekty/VSLI/lab2/PWM_CRC/CRC_PWM.vhd" into library work
+Parsing VHDL file "G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture a_crc_coder of entity CRC_coder [crc_coder_default]
+Compiling architecture a_pwm of entity PWM [pwm_default]
+Compiling architecture a_crc_decoder of entity CRC_decoder [crc_decoder_default]
+Compiling architecture a_crc_pwm of entity CRC_PWM [crc_pwm_default]
+Compiling architecture behavior of entity tb_crc_pwm
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 VHDL Units
+Built simulation executable G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM_isim_beh.exe
+Fuse Memory Usage: 34412 KB
+Fuse CPU Usage: 468 ms

@@ -1,0 +1,5 @@
+vhdtdtfi -lib work PWM.vhd -prj PWM_CRC -o PWM.spl -module PWM -template H:/PROGRAMY/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 PWM.spl G:/Projekty/VSLI/lab2/PWM_CRC/PWM.sym 
+xst -intstyle ise -ifn "G:/Projekty/VSLI/lab2/PWM_CRC/PWM.xst" -ofn "G:/Projekty/VSLI/lab2/PWM_CRC/PWM.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k325t-ffg900-2 PWM.ngc PWM.ngd  
+map -intstyle ise -p xc7k325t-ffg900-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PWM_map.ncd PWM.ngd PWM.pcf 

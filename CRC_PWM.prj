@@ -1,0 +1,4 @@
+vhdl work "PWM.vhd"
+vhdl work "CRC_decoder.vhd"
+vhdl work "CRC_coder.vhd"
+vhdl work "CRC_PWM.vhd"

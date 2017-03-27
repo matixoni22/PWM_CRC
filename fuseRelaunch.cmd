@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM_isim_beh.exe" -prj "G:/Projekty/VSLI/lab2/PWM_CRC/tb_CRC_PWM_beh.prj" "work.tb_CRC_PWM" 

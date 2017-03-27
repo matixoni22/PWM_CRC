@@ -1,0 +1,10 @@
+[Inputs]
+clk
+reset
+nr_w
+=data_out[7:0]=
+=address[1:0]=
+[Outputs]
+PWM_out
+=data_in[7:0]=
+[BiDir]
